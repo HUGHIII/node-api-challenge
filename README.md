@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+Router and other built in middleware like express.json
+
 - [ ] Describe Middleware?
+
+functions or tasks that intercepts data from responses and requests and has the ability to manipulate it
 
 - [ ] Describe a Resource?
 
+data accessed via crud operations
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+response messages
+
 - [ ] How can we partition our application into sub-applications?
+
+by dividing our routes into different files/folders relative to their purpose in the data manipulation
 
 ## Minimum Viable Product
 
